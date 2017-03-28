@@ -1,0 +1,24 @@
+.button1{
+	float:center;
+	color:#6b437b;
+	font-family:Palatino Linotype,Times New Roman,Arial;
+	font-size:50px;
+	text-align: center;
+	cursor: pointer;
+	 border: none;
+	 border-radius: 15px;
+    box-shadow: 0 9px #999;
+	padding: 10px 15px;
+}
+.button1:hover {background-color:#cea2ff;}
+
+.button1:active {
+  background-color: #cea2ff;
+  box-shadow: 0 5px #cea2ff;
+  transform: translateY(4px);
+}
+.image{
+	width:150px;
+	height:150px;
+	
+}
